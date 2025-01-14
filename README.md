@@ -71,5 +71,5 @@ Once you've added your information to the template, delete this file and rename 
 
 ## Submitting your solution
 
-Submit your solution link in the Internshala platform.
+Submit your solution link with both the Github repo and Deployment link in the Internshala platform.
 
