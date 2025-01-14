@@ -4,15 +4,15 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this coding challenge.This is an evaluation task for the job application due to a high number of applicants. The evaluation criteria will be
+Thanks for checking out this coding challenge.This is an evaluation task for the job application. The evaluation criteria will be
 
-Adherence to the design - Pixel Perfect design
-Understanding of Requirements on the first go(No Scope for Q&A Clarifications during the challenge)
-Availability of Developer
-Speed of Development
-Code Quality
-Best practices from Production grade environments 
-Documentation
+- Adherence to the design - Pixel Perfect design
+- Understanding of Requirements on the first go(No Scope for Q&A Clarifications during the challenge)
+- Availability of Developer
+- Speed of Development
+- Code Quality
+- Best practices from Production grade environments 
+- Documentation
 
 We reserve the right to reject the candidate if the above criteria is not met. We reserve the right to final decisions. Acceptance to the challenge is not a guarantee for the job.
 
